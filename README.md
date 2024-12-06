@@ -14,4 +14,10 @@
   <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cris-Figma" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg">
+  <img align="center" alt="Cris-SQLite" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
+  <img align="center" alt="Cris-Kotlin" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg">
+  <img align="center" alt="Cris-TS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Cris-VS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg">
+  <img align="center" alt="Cris-UB" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg">
 </div><br>
