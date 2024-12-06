@@ -22,6 +22,15 @@
   <img align="center" alt="Cris-UB" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg">
 </div><br>
 
+## Frameworks
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Cris-A" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">
+  <img align="center" alt="Cris-DJ" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
+  <img align="center" alt="Cris-IO" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg">
+</div><br>
+
 ## GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
