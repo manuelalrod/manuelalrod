@@ -30,3 +30,11 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalrod&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
+### Contact
+
+<div> 
+  <a href="mailto:manuelalmengor32@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
